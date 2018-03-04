@@ -1,0 +1,19 @@
+Pages:
+Home <-- NO!
+Favorites
+Settings
+Library
+Quote
+Quotes
+Tabs
+
+ionic generate page (name of page)
+
+
+ionic serve
+
+
+
+The NavController is what controls how we move from page to page
+NavController's are like a stack
+
